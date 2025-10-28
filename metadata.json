@@ -1,0 +1,5 @@
+{
+  "name": "Grandeur Salon AI Assistant",
+  "description": "An AI-powered chatbot that acts as a virtual assistant for Grandeur Salon, helping users book appointments, inquire about services, and manage their salon visits through a user-friendly chat interface.",
+  "requestFramePermissions": []
+}
